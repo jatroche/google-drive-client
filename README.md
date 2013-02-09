@@ -1,4 +1,4 @@
-google-drive-client
+Google-drive-client
 ===================
 
-A python Google Drive Client
+A Google Drive Client in Python
